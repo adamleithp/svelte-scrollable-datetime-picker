@@ -19,6 +19,7 @@ https://svelte.dev/repl/d259226ce3384b2f884414e8f276d0b5?version=3.20.1
 
 ## TODO
 - [x] 24 hour clock boolean
+- [ ] Change MonthDays (currency hardcoded in at 31).. Update on date change or month.
 - [ ] Make as component
 - [ ] Add props (24 hour clock, etc)
 - [ ] Dispatch event to parent, so it can be used as a component.
