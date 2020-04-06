@@ -18,14 +18,13 @@ https://svelte.dev/repl/d259226ce3384b2f884414e8f276d0b5?version=3.20.1
 
 
 ## TODO
-- [ ] 24 hour clock boolean
+- [x] 24 hour clock boolean
 - [ ] Make as component
 - [ ] Add props (24 hour clock, etc)
 - [ ] Dispatch event to parent, so it can be used as a component.
 - [ ] Minute steps. Allow incremements of 5/10, so UX is not so cumbersome to the user. 
 - [ ] Test in browsers
 - [ ] Add pollyfills if necessary
-- [ ] 
 
 
 ## Get started
